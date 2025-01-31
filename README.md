@@ -4,8 +4,12 @@ Projeto
 Projeto com o objetivo de colocar em prática alguns conceitos aprendidos no curso. 
 
 
+
 💻 Tecnologias utilizadas no projeto
+
 ChatGPT
+
+
 
 🧠 Prompts
 
