@@ -13,9 +13,7 @@ ChatGPT
 
 🧠 Prompts
 
-ChatGPT：
-
-Imagem de tabela inserida diretamente no ChatGPT.
+*Imagem de tabela inserida diretamente no ChatGPT.
 
 ![image](https://github.com/user-attachments/assets/74e33a1a-b247-4304-97ea-75b2b7c76cf8)
 
